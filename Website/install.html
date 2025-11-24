@@ -1,4 +1,5 @@
 <script>
-  const LISTING_URL = "{{ listingInfo.Url }}";
+  const LISTING_URL = "https://called-d.github.io/vpm-listing/index.json";
   window.location.assign(`vcc://vpm/addRepo?url=${encodeURIComponent(LISTING_URL)}`);
+  setTimeout(() => { window.history.back(); }, 10_000);
 </script>
