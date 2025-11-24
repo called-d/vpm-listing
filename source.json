@@ -5,7 +5,7 @@
     "author":{
         "email":"called.0xd@gmail.com",
         "name":"called_D",
-        "url":"https://twitter.com/called_D"
+        "url":"https://called-d.booth.pm/"
     },
     "description":"gimmick vpm packages",
     "infoLink":{
@@ -14,6 +14,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
+        "called-d/OscWardrobeUnity"
     ],
     "packages":[
     ]
